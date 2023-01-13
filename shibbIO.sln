@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shibbIO", "shibbIO\shibbIO.csproj", "{271B474C-73A7-4B3E-9361-163DC6B6D33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271B474C-73A7-4B3E-9361-163DC6B6D33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271B474C-73A7-4B3E-9361-163DC6B6D33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271B474C-73A7-4B3E-9361-163DC6B6D33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271B474C-73A7-4B3E-9361-163DC6B6D33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A92A1B-B38D-4252-872A-F79B414BE350}
+	EndGlobalSection
+EndGlobal
